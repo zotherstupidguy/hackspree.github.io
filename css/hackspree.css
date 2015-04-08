@@ -1,18 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Bangers);
-
 @font-face {
-  font-family: 'space';
-  src: url('../font/space.ttf');
-}
-
-@font-face {
-  font-family: 'ad';
-  src: url('../font/ad.otf');
-}
-
-@font-face {
-  font-family: 'ad-black';
-  src: url('../font/ad-black.otf');
+  font-family: 'babib';
+  src: url('../font/BABIE___.TTF');
 }
 
 .logo{
@@ -20,7 +9,6 @@
 }
 
 body{
-  font-family: 'ad-black';
-  font-family: 'space';
-  font-family: 'Bangers', cursive;
+  font-family: 'babib', 'Bangers', cursive;
+  font-size: 120%; 
 }
