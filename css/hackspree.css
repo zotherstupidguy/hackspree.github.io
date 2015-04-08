@@ -1,0 +1,26 @@
+@import url(http://fonts.googleapis.com/css?family=Bangers);
+
+@font-face {
+  font-family: 'space';
+  src: url('../font/space.ttf');
+}
+
+@font-face {
+  font-family: 'ad';
+  src: url('../font/ad.otf');
+}
+
+@font-face {
+  font-family: 'ad-black';
+  src: url('../font/ad-black.otf');
+}
+
+.logo{
+  font-family: 'ad';
+}
+
+body{
+  font-family: 'ad-black';
+  font-family: 'space';
+  font-family: 'Bangers', cursive;
+}
