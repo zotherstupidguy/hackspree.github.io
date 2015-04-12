@@ -1,4 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=Bangers);
+@import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
+
 @font-face {
   font-family: 'babib';
   src: url('../font/BABIE___.TTF');
@@ -9,6 +11,6 @@
 }
 
 body{
-  font-family: 'babib', 'Bangers', cursive;
+  font-family: 'lato', 'babib', 'Bangers', cursive;
   font-size: 120%; 
 }
