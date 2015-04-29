@@ -3,5 +3,5 @@
 This is the Offical website for HackSpree
 
 TODO
-- Add Research
-- Add Blog
+- Add OpenResearch section which is a blog
+- Add Publications which is finished research
