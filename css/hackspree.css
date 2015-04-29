@@ -3,7 +3,7 @@
 
 @font-face {
   font-family: 'hackspree_body';
-  src: url(font/conradi.ttf);
+  src: url(./../fonts/conradi_square.ttf);
 }
 
 body{
