@@ -1,12 +1,12 @@
 @import url(http://fonts.googleapis.com/css?family=Bangers);
-@import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
 
 @font-face {
   font-family: 'hackspree_body';
-  src: url(./../fonts/conradi_square.ttf);
+  /*src: url(./../fonts/conradi_square.ttf);
+   */
 }
 
 body{
-  font-family: 'hackspree_body';
+  font-family: 'hackspree_body', "Bangers";
   font-size: 120%; 
 }
