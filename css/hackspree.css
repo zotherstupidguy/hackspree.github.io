@@ -2,15 +2,11 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
 
 @font-face {
-  font-family: 'babib';
-  src: url('../font/BABIE___.TTF');
-}
-
-.logo{
-  font-family: 'ad';
+  font-family: 'hackspree_body';
+  src: url(./../font/conradi.ttf);
 }
 
 body{
-  font-family: 'lato', 'babib', 'Bangers', cursive;
+  font-family: 'hackspree_body', 'Lato', 'Bangers', cursive;
   font-size: 120%; 
 }
