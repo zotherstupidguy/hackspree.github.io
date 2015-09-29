@@ -1,4 +1,5 @@
 @import url(http://fonts.googleapis.com/css?family=Bangers);
+@import url(https://fonts.googleapis.com/css?family=Roboto:300);
 
 @font-face {
   font-family: 'hackspree_body';
@@ -7,7 +8,10 @@
 }
 
 body{
-  font-family: 'hackspree_body', "Bangers";
+  /*font-family: 'hackspree_body', "Bangers";
+   */
+  font-family: 'Roboto', 'hackspree_body', 'Bangers';
   font-size: 120%; 
-  font-color: #80004F; 
+  /*font-color: #80004F; 
+   */
 }
