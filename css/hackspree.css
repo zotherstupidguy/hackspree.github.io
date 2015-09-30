@@ -10,8 +10,20 @@
 body{
   /*font-family: 'hackspree_body', "Bangers";
    */
-  font-family: 'Roboto', 'hackspree_body', 'Bangers';
-  font-size: 120%; 
-  /*font-color: #80004F; 
-   */
+font-family: 'Roboto', 'hackspree_body', 'Bangers';
+font-size: 120%; 
+/*font-color: #80004F; 
+ */
+
 }
+
+/* Panels */
+.panel {
+  font-size: 70%; 
+  border-style: solid;
+  border-width: 1px;
+  border-color: #d8d8d8;
+  margin-bottom: 1.25rem;
+  padding: 1.25rem;
+  background: #F8E326;
+color: #CA2222; }
